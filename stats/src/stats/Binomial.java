@@ -22,7 +22,7 @@ public class Binomial {
 
 		// j = lower bound
 		// k = upper bound 
-		//
+		// This is a test of a second GH account 
 	}
 
 	private static double cdf(double k, double n, double p, double j) {
